@@ -1,0 +1,9 @@
+/.vs/ 
+/x64/ 
+/Release/ 
+*.user 
+*.vcxproj.filters 
+*.vcxproj.user 
+*.ipch 
+*.obj 
+*.pdb 
