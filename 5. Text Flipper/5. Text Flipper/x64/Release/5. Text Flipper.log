@@ -1,9 +1,0 @@
-﻿  5. Text Flipper.cpp
-C:\Users\weeee\source\repos\5. Text Flipper\5. Text Flipper\5. Text Flipper.cpp(9,16): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
-  Code wird generiert.
-  Previous IPDB not found, fall back to full compilation.
-  All 94 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Codegenerierung ist abgeschlossen.
-  5. Text Flipper.vcxproj -> C:\Users\weeee\source\repos\5. Text Flipper\x64\Release\5. Text Flipper.exe
-  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
-  konnte nicht gefunden werden.
